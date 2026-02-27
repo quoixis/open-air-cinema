@@ -33,4 +33,4 @@ npm run dev
 
 ## Деплой
 
-Проект розгорнуто на Vercel: [посилання]
+Проект розгорнуто на Vercel: https://open-air-cinema-vercel.vercel.app/
